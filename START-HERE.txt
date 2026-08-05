@@ -1,0 +1,17 @@
+MARYLAND NEURO-REHAB REFERENCE PROTOTYPE — VERSION 2.0
+
+1. Open review/index.html to see the decision guide and page-status map.
+2. Open index.html to browse the proposed public website.
+3. Open sitemap.html to review the complete information architecture.
+
+For the most reliable local preview, open a terminal in this folder and run:
+
+    python -m http.server 8000
+
+Then visit:
+
+    http://localhost:8000
+
+For GitHub Pages deployment, read DEPLOY-TO-GITHUB-PAGES.md.
+
+This is a public-facing planning prototype, not a production medical website. The demo forms transmit and store nothing. All clinical, staff, insurance, contact, privacy, legal, branding, and operational information must be reviewed before publication.
