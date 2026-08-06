@@ -1,9 +1,0 @@
-{
-  "name": "Neuro-Rehab Reference Site",
-  "version": "4.1",
-  "build_type": "simplified proposed website prototype generated from the clean Version 4.0 build",
-  "generated_pages": 40,
-  "self_contained": true,
-  "external_dependencies": false,
-  "review_system": false
-}
