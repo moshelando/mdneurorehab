@@ -1,0 +1,6 @@
+PROTOTYPE 3.0
+
+Open review/index.html first.
+Then use review/decisions.html as the decision agenda.
+Open index.html to browse the proposed website.
+Use the Hide review notes button to switch to a clean preview.
