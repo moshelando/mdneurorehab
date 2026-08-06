@@ -1,8 +1,0 @@
-MARYLAND NEURO-REHAB REFERENCE PROTOTYPE 3.0-R2
-
-Open index.html to view the proposed site.
-Open review/index.html to understand the review process.
-Open review/decisions.html for the complete decision list.
-
-The page design shows the proposed public website. Click “Review this page” for the separate planning questions.
-This package is fully self-contained and does not depend on any Version 2.0 files.

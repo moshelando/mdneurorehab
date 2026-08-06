@@ -1,7 +1,0 @@
-{
-  "version": "3.0-R2",
-  "name": "Restored Visual Review Prototype",
-  "basis": "Prototype 2.0 visual system with Prototype 3.0 review clarity",
-  "self_contained": true,
-  "notes": "Every HTML page contains complete inline CSS and JavaScript; assets are also included for maintainability."
-}

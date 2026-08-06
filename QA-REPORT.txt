@@ -1,3 +1,0 @@
-PASS
-HTML pages: 42
-All pages contain inline CSS and JavaScript; internal file links resolve; no stale visible Prototype 2.0 labels remain.
