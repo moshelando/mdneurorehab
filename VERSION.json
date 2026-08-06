@@ -1,0 +1,8 @@
+{
+  "name": "Neuro-Rehab Reference Site",
+  "version": "4.0",
+  "build_type": "clean rebuild from one structured generator",
+  "generated_pages": 42,
+  "self_contained": true,
+  "external_dependencies": false
+}
