@@ -1,0 +1,27 @@
+NEURO-REHAB REFERENCE PROTOTYPE 4.2 — DEPLOYMENT QA
+
+Build architecture
+- 40 HTML pages
+- All HTML pages stored directly at repository root
+- No HTML page subdirectories
+- No external CSS or JavaScript files
+- All CSS and JavaScript embedded within each HTML page
+- All internal page links use same-folder filenames
+- No internal page link contains a slash
+
+File-level link audit
+- Internal links and anchors checked: 1,258
+- Missing target files: 0
+- Missing anchors: 0
+
+GitHub Pages path simulation
+- Simulated URL base: /neurorehab-reference/
+- Linked HTML pages crawled successfully: 39
+- HTTP page failures: 0
+- 404.html exists separately and is not expected to be linked in normal navigation
+
+Upload requirement
+- Upload every extracted file directly to the GitHub repository root
+- index.html must be visible at the repository root
+- Do not upload the ZIP itself
+- No folders are required for the website to operate

@@ -1,0 +1,7 @@
+{
+  "version": "4.2-flat",
+  "purpose": "Simple proposed website prototype",
+  "deployment": "GitHub Pages project site",
+  "structure": "All public pages are flat at repository root; CSS and JavaScript are embedded in each page.",
+  "page_count": 40
+}
