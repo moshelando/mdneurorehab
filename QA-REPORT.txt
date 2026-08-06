@@ -1,0 +1,21 @@
+NEURO-REHAB REFERENCE PROTOTYPE 3.0-R1 — QA REPORT
+
+Corrective purpose
+- Restores the complete visual presentation while preserving the Version 3.0 review framework.
+- Makes every page independently self-contained.
+- Removes all runtime dependence on Version 2.0 or on separately uploaded CSS/JavaScript files.
+
+Automated verification
+- 42 HTML pages checked.
+- Every page contains the full bundled stylesheet.
+- Every page contains the full bundled JavaScript.
+- No page references assets/site.css or assets/site.js at runtime.
+- All internal HTML links resolve within the package.
+- index.html is present at repository root.
+- .nojekyll and robots.txt are present.
+
+Deployment note
+- Replace all current repository site files with the contents of this package.
+- Do not delete the repository itself.
+- Keep GitHub Pages set to main / (root).
+- After deployment completes, use Ctrl+F5 to bypass a cached unformatted page.

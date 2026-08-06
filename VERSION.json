@@ -1,0 +1,13 @@
+{
+  "version": "3.0.0",
+  "date": "2026-08-05",
+  "purpose": "Interactive planning and decision prototype",
+  "production_ready": false,
+  "forms_functional": false,
+  "search_indexing_requested": false,
+  "review_modes": [
+    "annotated review",
+    "clean preview"
+  ],
+  "decision_list": "review/decisions.html"
+}
